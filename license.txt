@@ -1,2 +1,4 @@
 git diff HEAD -- filename
 查看与现有版本的不同
+现在是修改版
+查看diff的功能
