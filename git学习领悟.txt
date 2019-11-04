@@ -1,0 +1,5 @@
+git学习：
+功能不难，但是不知道为什么我就搞了两天半。
+第一个是在安装的时候，第一次装，父文件夹是中文名，然后git bash here在桌面上就出了问题。配置的时候没啥问题，关联远程库的时候傻了，英语不好的我留下了悔恨的泪水。推送和克隆问题大了，git这个玩意不注意就error了，push时说我。。。。上网查时有一个readme.md的文件出了问题。解决之后，又建了一个git文件夹和远程版本库，也没有一次就好，不记得具体什么问题了。最后就是在分支这里，再我新建了一个分支后，并合并最后在master分支push时 
+Your branch and 'origin/master' have diverged,and have 3 and 1 different commits each, respectively
+不知道啥原因，就这样，git挺好玩的，但我似乎还没有体会到它真正的作用
